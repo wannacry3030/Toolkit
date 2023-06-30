@@ -18,7 +18,7 @@ LulzSec-Toolkit enables the user to have a menu with the most important tools. B
 #### • Tools can be installed in the script
 
 ## Installation
-1. git clone https://github.com/SecExploiter/LulzSec-Toolkit.git
+1. git clone https://github.com/wannacry3030/Toolkit.git
 2. cd LulzSec-Toolkit
 3. chmod +x LulzSec.sh
 4. sudo ./LulzSec.sh
@@ -30,6 +30,3 @@ LulzSec-Toolkit enables the user to have a menu with the most important tools. B
  all applicable local, state and federal laws. Developers assume no
  liability and are not responsible for any misuse or damage caused by this program.
 
-##                                                  SUPPORT US
-###                               Our Account https://github.com/SecExploiter
-#                        If you liked this tool then recommend it to other people and let's have a star there!!!!!!!
